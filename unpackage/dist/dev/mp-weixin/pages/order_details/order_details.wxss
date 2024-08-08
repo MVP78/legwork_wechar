@@ -1,0 +1,46 @@
+
+.body {
+	padding-bottom: 30rpx;
+}
+.o-top {
+	display: flex;
+	justify-content: flex-end;
+	height: 120rpx;
+	background-color: #11b764;
+	margin: 30rpx 0;
+}
+.o-content {
+	width: 50%;
+	height: 120rpx;
+	line-height: 120rpx;
+	background-color: #1296db;
+	text-align: center;
+	border-top-left-radius: 76rpx;
+	border-bottom-left-radius: 76rpx;
+}
+.o-title {
+	color: #fff;
+	font-size: 50rpx;
+	font-weight: 700;
+}
+.o-text {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 20rpx 0;
+}
+.o-left {
+	width: 200rpx;
+}
+.o-right {
+	width: 406rpx;
+	text-align: right;
+}
+.o-img image {
+	width: 100%;
+	border-radius: 10rpx;
+}
+.o-red {
+	color: red;
+}
+

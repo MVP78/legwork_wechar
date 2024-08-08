@@ -1,0 +1,147 @@
+
+.m-top {
+	height: 60rpx;
+	background-color: #fff;
+}
+.top {
+	margin: 30rpx 20rpx;
+	padding: 30rpx 60rpx;
+	border-radius: 16rpx;
+	background-color: #fff;
+	box-shadow: 5rpx 5rpx 10rpx #9bcddb;
+}
+.login {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.left image {
+	width: 150rpx;
+	height: 150rpx;
+}
+.m-center {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	width: 240rpx;
+	height: 200rpx;
+	font-size: 36rpx;
+}
+.message {
+	width: 240rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+	font-weight: 700;
+	color: #175373;
+}
+.right image {
+	width: 80rpx;
+	height: 80rpx;
+}
+.toLogin {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #1296db;
+
+	border-radius: 60rpx;
+}
+.weixin image {
+	width: 100rpx;
+	height: 100rpx;
+}
+.text {
+	margin-left: 10rpx;
+	color: #fff;
+	font-size: 36rpx;
+	letter-spacing: 0.5rem;
+}
+.c-content {
+	margin: 60rpx 20rpx;
+	padding: 30rpx;
+	border-radius: 16rpx;
+	background-color: #fff;
+	box-shadow: 5rpx 5rpx 10rpx #9bcddb;
+}
+.slot-box {
+
+	display: flex;
+
+	flex-direction: row;
+	align-items: center;
+}
+.slot-image {
+
+	display: block;
+
+
+	width: 50rpx;
+	height: 50rpx;
+}
+.slot-text {
+	lex: 1;
+	font-size: 16px;
+
+	margin-left: 16px;
+
+	font-family: "Microsoft YaHei";
+	letter-spacing: 0.1em;
+}
+.p-content {
+	width: 600rpx;
+	height: 740rpx;
+	background-color: #fff;
+	border-radius: 20rpx;
+}
+.uni-forms-item {
+	border-bottom: 1rpx solid #000;
+}
+.uni-forms-item:nth-child(3) {
+	border-bottom: 0;
+}
+.p-top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 40rpx 30rpx;
+}
+.p-title {
+	font-size: 36rpx;
+}
+.form {
+	padding: 0 60rpx;
+}
+.uimg {
+	position: relative;
+	width: 200rpx;
+	height: 200rpx;
+	line-height: 200rpx;
+	text-align: center;
+	border-radius: 10rpx;
+	border: 1px solid #8a8a8a;
+	font-size: 100rpx;
+	color: #8a8a8a;
+}
+.uimg image {
+	width: 200rpx;
+	height: 200rpx;
+	border-radius: 10rpx;
+}
+.clear-button {
+	position: absolute;
+	right: -34px;
+	top: -46px;
+}
+.sub-button {
+	text-align: center;
+	font-size: 36rpx;
+	margin: 0 60rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	background: linear-gradient(90deg, rgb(67, 103, 150) 0%, rgb(18, 150, 219) 100%);
+	color: #fff;
+	letter-spacing: 0.2rem;
+	border-radius: 20rpx;
+}
+

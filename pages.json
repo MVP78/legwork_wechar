@@ -1,0 +1,111 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		}, {
+			"path": "pages/order_details/order_details",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/order_list/order_list",
+			"style": {
+				"navigationBarTitleText": "我的订单",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/rider/rider",
+			"style": {
+				"navigationBarTitleText": "骑手中心",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/apply_rider/apply_rider",
+			"style": {
+				"navigationBarTitleText": "骑手申请",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/add_order/add_order",
+			"style": {
+				"navigationBarTitleText": "代拿表单",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/receiver/receiver",
+			"style": {
+				"navigationBarTitleText": "收货人",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/task_hall/task_hall",
+			"style": {
+				"navigationBarTitleText": "接单大厅",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/poster/poster",
+			"style": {
+				"navigationBarTitleText": "详情介绍",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/record/record",
+			"style": {
+				"navigationBarTitleText": "提现记录",
+				"enablePullDownRefresh": false
+			}
+		}
+
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"selectedColor": "#1296db",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				// 底部默认图片路径
+				"iconPath": "static/tabbar/shouye.png",
+				// 底部选中图片路径
+				"selectedIconPath": "static/tabbar/shouye1.png"
+			},
+			{
+				"pagePath": "pages/task_hall/task_hall",
+				"text": "接单大厅",
+				"iconPath": "static/tabbar/renwu.png",
+				"selectedIconPath": "static/tabbar/renwu1.png"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "static/tabbar/wode.png",
+				"selectedIconPath": "static/tabbar/wode1.png"
+			}
+		]
+	}
+}

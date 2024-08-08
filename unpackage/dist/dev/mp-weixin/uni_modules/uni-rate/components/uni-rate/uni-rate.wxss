@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.uni-rate {
+  display: flex;
+  line-height: 1;
+  font-size: 0;
+  flex-direction: row;
+}
+.uni-rate__icon {
+  position: relative;
+  line-height: 1;
+  font-size: 0;
+}
+.uni-rate__icon-on {
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 1;
+  text-align: left;
+}
+

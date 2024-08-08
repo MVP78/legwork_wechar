@@ -1,0 +1,109 @@
+
+.r-top {
+	display: flex;
+	justify-content: space-around;
+	margin: 30rpx;
+	padding: 30rpx 0;
+	background-color: #1296db;
+	border-radius: 12rpx;
+}
+.r-item {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 200rpx;
+	height: 200rpx;
+}
+.r-text {
+	width: 200rpx;
+	text-align: center;
+}
+.r-img {
+	margin-bottom: 10rpx;
+}
+.r-img image {
+	width: 100rpx;
+	height: 100rpx;
+}
+.r-title {
+	font-weight: 700;
+	font-size: 36rpx;
+	color: #fff;
+}
+.r-content {
+	font-weight: 700;
+	font-size: 28rpx;
+	color: #fff;
+	opacity: 0.5;
+}
+.r-list {
+	margin: 0 30rpx;
+	padding: 30rpx;
+	border-radius: 16rpx;
+	background-color: #fff;
+	box-shadow: 5rpx 5rpx 10rpx #9bcddb;
+}
+.slot-box {
+
+	display: flex;
+
+	flex-direction: row;
+	align-items: center;
+}
+.slot-image {
+
+	display: block;
+
+	width: 50rpx;
+	height: 50rpx;
+}
+.slot-text {
+	lex: 1;
+	font-size: 16px;
+	margin-left: 16px;
+	font-family: "Microsoft YaHei";
+	letter-spacing: 0.1em;
+}
+.r-popup {
+	width: 600rpx;
+	height: 740rpx;
+	background-color: #fff;
+	border-radius: 20rpx;
+}
+.rp-top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 40rpx 40rpx;
+}
+.rp-title {
+	font-size: 36rpx;
+}
+.form {
+	padding: 0 60rpx;
+}
+.sub-button {
+	text-align: center;
+	font-size: 36rpx;
+	margin: 0 60rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	background: linear-gradient(90deg, rgb(67, 103, 150) 0%, rgb(18, 150, 219) 100%);
+	color: #fff;
+	letter-spacing: 0.2rem;
+	border-radius: 20rpx;
+}
+.rp-item {
+	padding-left: 20rpx;
+	height: 72rpx;
+	line-height: 72rpx;
+}
+.uni-forms-item {
+	border-bottom: 1rpx solid #000;
+}
+.rp-sm {
+	margin-bottom: 40rpx;
+	color: #000;
+	font-size: 24rpx;
+}
+

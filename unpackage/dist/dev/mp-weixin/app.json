@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/order_details/order_details",
+    "pages/order_list/order_list",
+    "pages/rider/rider",
+    "pages/apply_rider/apply_rider",
+    "pages/add_order/add_order",
+    "pages/receiver/receiver",
+    "pages/my/my",
+    "pages/task_hall/task_hall",
+    "pages/poster/poster",
+    "pages/record/record"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/shouye.png",
+        "selectedIconPath": "static/tabbar/shouye1.png"
+      },
+      {
+        "pagePath": "pages/task_hall/task_hall",
+        "text": "接单大厅",
+        "iconPath": "static/tabbar/renwu.png",
+        "selectedIconPath": "static/tabbar/renwu1.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/tabbar/wode.png",
+        "selectedIconPath": "static/tabbar/wode1.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

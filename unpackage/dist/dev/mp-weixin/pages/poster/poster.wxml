@@ -1,0 +1,1 @@
+<view class="body"><view class="poster"><block wx:if="{{posterId==='1'}}"><image src="../../static/bigImg/yonghuzhinan.png" mode="widthFix"></image></block><block wx:if="{{posterId==='2'}}"><image src="../../static/bigImg/qishouzhinan.png" mode="widthFix"></image></block></view></view>
