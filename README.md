@@ -12,11 +12,21 @@
 
 对于骑手，其包含了普通用户的功能外还存在的功能有：接单、确认送达、查看认证信息、我的收益等。
 
+## 系统流程
+
+<img src="./static\readme\liucheng.png" style="zoom:60%;" />
+
+## E-R图
+
+<img src="./static\readme\E-R.png" style="zoom:60%;" />
+
 ## 使用技术
 
 vue、uniapp、uni-ui组件库
 
 ## 部署运行
+
+使用HBuilder X 打开项目
 
 安装依赖：npm install
 
