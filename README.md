@@ -24,20 +24,20 @@ vue、uniapp、uni-ui组件库
 
 ## 项目截图
 
-<img src="./legwork_wechar\static\readme\shouye.png" style="zoom:80%;" />
+<img src="./static\readme\shouye.png" style="zoom:80%;" />
 
-<img src="./legwork_wechar\static\readme\daina.png" style="zoom:80%;" />
+<img src="./static\readme\daina.png" style="zoom:80%;" />
 
-<img src="./legwork_wechar\static\readme\dindan1.png" alt="dindan1" style="zoom:80%;" />
+<img src="./static\readme\dindan1.png" alt="dindan1" style="zoom:80%;" />
 
-<img src="./legwork_wechar\static\readme\dingdanliebiao.png" alt="dingdanliebiao" style="zoom:80%;" />
+<img src="./static\readme\dingdanliebiao.png" alt="dingdanliebiao" style="zoom:80%;" />
 
-<img src="./legwork_wechar\static\readme\jiedan.png" alt="jiedan" style="zoom:80%;" />
+<img src="./static\readme\jiedan.png" alt="jiedan" style="zoom:80%;" />
 
-<img src="./legwork_wechar\static\readme\qishou.png" alt="qishou" style="zoom:80%;" />
+<img src="./static\readme\qishou.png" alt="qishou" style="zoom:80%;" />
 
-<img src="./legwork_wechar\static\readme\renzheng.png" alt="renzheng" style="zoom:80%;" />
+<img src="./static\readme\renzheng.png" alt="renzheng" style="zoom:80%;" />
 
-<img src="./legwork_wechar\static\readme\shouhuoren.png" alt="shouhuoren" style="zoom:80%;" />
+<img src="./static\readme\shouhuoren.png" alt="shouhuoren" style="zoom:80%;" />
 
-<img src="./legwork_wechar\static\readme\wode.png" alt="wode" style="zoom:80%;" />
+<img src="./static\readme\wode.png" alt="wode" style="zoom:80%;" />
